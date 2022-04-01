@@ -61,7 +61,7 @@ Here are some of the initial resources:
 | Visualisations             | [Learn about visualisations in Python](python/visualisation-in-python.md)                                                                                         |
 | Publishing your code       | [Learn how to publish your code in the open](development-approach/08_how-to-publish-your-code-in-the-open.md)                                                     |
 
-These resources are demand-driven so if you want something then please ask on the [MS Teams page]. We would also ask you to contribute if you can improve on any of the resources or can fill in any other gaps. 
+These resources are demand-driven so if you want something then please ask on the [RAP community of practice MS Teams](https://teams.microsoft.com/l/team/19%3aEnoJ_c3NIwcWaLoqHyrbmiui8SI-8lZ1B2SvxNuGbyU1%40thread.tacv2/conversations?groupId=1c1528d7-030e-48eb-92cf-dc0f6a618ea0&tenantId=50f6071f-bbfe-401a-8803-673748e629e2). We would also ask you to contribute if you can improve on any of the resources or can fill in any other gaps. 
 
 The resources are not intended to be prescriptive. There are many ways to accomplish a task and teams have valid reasons for choosing other approaches. Instead the intention of the resources provided here is to offer a way in for teams who want to adopt good practices that they have heard about but don't know where to start.
 
