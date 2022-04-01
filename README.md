@@ -32,45 +32,34 @@ If your team is embarking upon a RAP journey, you should look at our [what is RA
 * Pair coding
 * Shadowing another team
 
-If you want to talk about any of this then please reach out on the [RAP community of practice MS Teams] page (internal to NHSD). 
+If you want to talk about any of this then please reach out on the [RAP community of practice MS Teams](https://teams.microsoft.com/l/team/19%3aEnoJ_c3NIwcWaLoqHyrbmiui8SI-8lZ1B2SvxNuGbyU1%40thread.tacv2/conversations?groupId=1c1528d7-030e-48eb-92cf-dc0f6a618ea0&tenantId=50f6071f-bbfe-401a-8803-673748e629e2) page (internal to NHSD). 
 
-We maintain a list of people who are willing to dedicate some time to support others. Please add your name to the mix if you are willing to support someone else. You don't need to be an expert - just willing to share what you know. 
-
+We maintain a list of people who are willing to dedicate some time to support others:
+- **You don't need to be an expert** - just willing to share what you know. 
+- **Let us know if you want to be added to the list!**
 
 ## Tutorials and resources
 As we work alongside teams, we try to produce reusable learning materials pitched at specifically supporting NHSD teams. We try (with partial success) to avoid reproducing guidance that is easily available online. Instead, we link to lots of external resources where you can self-serve. Our focus instead aims to create some bespoke guidance that lays out how you would accomplish these practices in the NHSD setting.
 
 Here are some of the initial resources:
 
-* [Learn about the basics of git](development-approach/01_intro-to-git.md)
-
-* [Learn how to use git collaboratively in your team](development-approach/02_using-git-collaboratively.md)
-
-* [Read our style guide for pyspark](pyspark/pyspark-style-guide.md)
-
-* [Work through some starter code in the pyspark tutorial script](pyspark/pyspark-tutorial.py)
-
-* [Learn how functions can improve your python code](python/python-functions.md)
-
-* [Learn how to design and write unit tests](development-approach/04_unit-tests.md)
-
-* [Learn about how to write and test field definitions in a way that is easy to understand and maintain](development-approach/05_unit-testing-field-definitions.md)
-
-* [Learn how tidy data can help teams to use a consistent format](development-approach/06_tidy-data.md)
-
-* [Learn how packaging your code can make it easier to share](python/project-structure-and-packaging.md)
-
-* [Learn how virtual environments can make your code more reliable](python/virtual-environments.md)
-
-* [Learn about logging and error handling in your code](python/logging-and-error-handling.md)
-  
-* [Learn about creating the QA plan for your RAP project](development-approach/03_quality-assuring-analytical-ouputs.md)
-
-* [Learn about visualisations in Python](python/visualisation-in-python.md)
-
-* [Learn how to publish your code in the open](development-approach/08_how-to-publish-your-code-in-the-open.md)
-
-* [Learn about the difference between using notebooks vs IDEs](development-approach/07_notebooks_versus_ide_development.md)
+| Topic                      | Link                                                                                                                                                              |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Git (code version control) | [Learn about the basics of git](development-approach/01_intro-to-git.md)                                                                                          |
+|                            | [Learn how to use git collaboratively in your team](development-approach/02_using-git-collaboratively.md)                                                         |
+| Python                     | [Read our style guide for pyspark](pyspark/pyspark-style-guide.md)                                                                                                |
+|                            | [Work through some starter code in the pyspark tutorial script](pyspark/pyspark-tutorial.py)                                                                      |
+|                            | [Learn how functions can improve your python code](python/python-functions.md)                                                                                    |
+|                            | [Learn about the difference between using notebooks vs IDEs](development-approach/07_notebooks_versus_ide_development.md)                                         |
+| Data                       | [Learn how tidy data can help teams to use a consistent format](development-approach/06_tidy-data.md)                                                             |
+| Testing                    | [Learn how to design and write unit tests](development-approach/04_unit-tests.md)                                                                                 |
+|                            | [Learn about how to write and test field definitions in a way that is easy to understand and maintain](development-approach/05_unit-testing-field-definitions.md) |
+| Productionisation          | [Learn how packaging your code can make it easier to share](python/project-structure-and-packaging.md)                                                            |
+|                            | [Learn how virtual environments can make your code more reliable](python/virtual-environments.md)                                                                 |
+|                            | [Learn about logging and error handling in your code](python/logging-and-error-handling.md)                                                                       |
+| Quality Assurance          | [Learn about creating the QA plan for your RAP project](development-approach/03_quality-assuring-analytical-ouputs.md)                                            |
+| Visualisations             | [Learn about visualisations in Python](python/visualisation-in-python.md)                                                                                         |
+| Publishing your code       | [Learn how to publish your code in the open](development-approach/08_how-to-publish-your-code-in-the-open.md)                                                     |
 
 These resources are demand-driven so if you want something then please ask on the [MS Teams page]. We would also ask you to contribute if you can improve on any of the resources or can fill in any other gaps. 
 
@@ -83,4 +72,3 @@ We have taken inspiration from the [NHSD software engineering COP](https://githu
 RAP Community of Practice codebase is released under the MIT License.
 
 The documentation is © Crown copyright and available under the terms of the [Open Government 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) licence.
-
