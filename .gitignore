@@ -1,0 +1,4 @@
+# gitignore for RAP Community of Practice
+
+# IDE project files
+.spyproject
